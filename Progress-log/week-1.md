@@ -7,7 +7,5 @@
 ## Day 2
 - Understood the difference between TCP and UDP
 - Learned how TCP ensures reliable communication
-
 - Learned why UDP is faster but unreliable
-
 - Studied common ports and what services use them
