@@ -20,10 +20,10 @@
 ## DNS Record Types
 - A → Domain to IPv4  
 - AAAA → Domain to IPv6  
-- **CNAME** → Alias to another domain  
-- **MX** → Mail server  
-- **NS** → Nameserver for the domain  
-- **TXT** → Text data (verification, SPF, DKIM)
+- CNAME → Alias to another domain  
+- MX → Mail server  
+- NS → Nameserver for the domain  
+- TXT → Text data (verification, SPF, DKIM)
 
 ---
 
