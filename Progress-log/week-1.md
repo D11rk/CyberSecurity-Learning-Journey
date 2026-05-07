@@ -21,3 +21,10 @@ What I learned
 - Learned the high-level flow of how the internet works.
 - Understood the steps: DNS → TCP handshake → HTTPS handshake → request → response.
 
+## Day 4
+
+### What I learned today
+- Understood the difference between HTTP and HTTPS.
+- Learned why HTTP is insecure and how attackers can read traffic.
+- Learned how HTTPS uses SSL/TLS to encrypt communication.
+- Learned why HTTPS is required for login forms and sensitive data.
