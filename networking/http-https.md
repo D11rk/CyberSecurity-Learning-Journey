@@ -34,4 +34,5 @@
 - Understanding HTTP/HTTPS is essential for web hacking.
 
 ## Questions
-- How do cookies and sessions work?  
+- How do cookies and sessions work?
+- What is TLS
