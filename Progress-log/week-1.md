@@ -22,9 +22,17 @@ What I learned
 - Understood the steps: DNS → TCP handshake → HTTPS handshake → request → response.
 
 ## Day 4
-
 ### What I learned today
 - Understood the difference between HTTP and HTTPS.
 - Learned why HTTP is insecure and how attackers can read traffic.
 - Learned how HTTPS uses SSL/TLS to encrypt communication.
 - Learned why HTTPS is required for login forms and sensitive data.
+
+## Day 5
+### What I learned today
+- Understood how cookies store data in the browser.
+- Learned how sessions store user information on the server.
+- Learned how cookies and sessions work together to keep users logged in.
+- Understood why cookies are a major target for attackers.
+- Learned the basics of TLS and how it encrypts communication.
+
