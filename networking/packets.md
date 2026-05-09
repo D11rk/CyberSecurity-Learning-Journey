@@ -42,3 +42,4 @@ Payload: Encrypted HTTPS data
 
 ## Questions
 - How do I capture and analyse packets in Wireshark?
+- How do I capture and analyse TCP handshake in Wireshark?
