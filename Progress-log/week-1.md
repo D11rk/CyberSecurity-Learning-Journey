@@ -36,3 +36,9 @@ What I learned
 - Understood why cookies are a major target for attackers.
 - Learned the basics of TLS and how it encrypts communication.
 
+## Day 6
+### What I learned today
+- Understood what a packet is and why data is split into packets.
+- Learned the structure of a packet (header + payload).
+- Learned how packets travel across different routers and get reassembled.
+
