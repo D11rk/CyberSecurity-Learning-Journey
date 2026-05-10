@@ -42,3 +42,14 @@ What I learned
 - Learned the structure of a packet (header + payload).
 - Learned how packets travel across different routers and get reassembled.
 
+## Day 7
+### What I learned today
+- Practised using Wireshark to capture and analyse packets.
+- Learned how to filter traffic by protocol.
+- Understood how the TCP 3-way handshake appears in Wireshark.
+- Learned how SYN, SYN/ACK, and ACK packets work together.
+- Reviewed all networking concepts from Week 1.
+
+
+
+
