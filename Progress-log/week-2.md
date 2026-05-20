@@ -18,3 +18,12 @@
 - Explored command history and repeated commands efficiently.
 
 
+## Week 2 — Day 3
+
+### What I learned today
+- Learned how to create files using `touch` and `echo`.
+- Practised editing files using `nano` and learned the basics of `vim`.
+- Learned how to view files using `cat`, `less`, `head`, and `tail`.
+- Understood how to redirect output and append data.
+- Learned how to use pipes to combine commands.
+
