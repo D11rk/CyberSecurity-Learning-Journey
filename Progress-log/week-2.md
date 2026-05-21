@@ -27,3 +27,12 @@
 - Understood how to redirect output and append data.
 - Learned how to use pipes to combine commands.
 
+## Week 2 — Day 4
+
+### What I learned today
+- Learned how to use `grep` to search inside files.
+- Learned how to use `find` to locate files and directories.
+- Practised recursive searches and filtering.
+- Combined `find` and `grep` for advanced searching.
+- Explored real-world uses like searching logs and config files.
+
