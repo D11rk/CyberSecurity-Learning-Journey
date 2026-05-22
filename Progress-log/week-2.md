@@ -36,3 +36,12 @@
 - Combined `find` and `grep` for advanced searching.
 - Explored real-world uses like searching logs and config files.
 
+
+## Week 2 — Day 5
+
+### What I learned today
+- Learned how Linux permissions work (r, w, x).
+- Understood user, group, and others permission groups.
+- Practised using `chmod` with symbolic and numeric modes.
+- Learned how to change ownership with `chown` and `chgrp`.
+
