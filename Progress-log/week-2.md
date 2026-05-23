@@ -45,3 +45,13 @@
 - Practised using `chmod` with symbolic and numeric modes.
 - Learned how to change ownership with `chown` and `chgrp`.
 
+## Week 2 — Day 6
+
+### What I learned today
+- Learned how Linux users and groups work.
+- Practised creating and deleting users and groups.
+- Learned how to add users to groups using `usermod`.
+- Understood how `sudo` works and why it’s important.
+- Explored `/etc/passwd`, `/etc/shadow`, and `/etc/group`.
+- Practised switching users with `su` and `sudo -u`.
+
