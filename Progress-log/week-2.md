@@ -55,3 +55,10 @@
 - Explored `/etc/passwd`, `/etc/shadow`, and `/etc/group`.
 - Practised switching users with `su` and `sudo -u`.
 
+## Week 2 — Day 7
+
+### What I learned today
+- Reviewed all Linux fundamentals from the week.
+- Practised navigation, file management, editing, searching, permissions, and user management.
+- Completed hands-on tasks to reinforce learning.
+- Strengthened confidence using the Linux terminal.
