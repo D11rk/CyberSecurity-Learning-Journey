@@ -23,3 +23,12 @@
 - Used Netcat for port testing, listeners, and file transfers.
 - Queried DNS records using Dig.
 - Sent HTTP requests and tested endpoints using Curl.
+
+## Week 3 — Day 4
+
+### What I learned today
+- Learned how firewalls control network traffic using rules.
+- Practised using UFW to allow, deny, and manage ports safely.
+- Learned how iptables works at a deeper level for packet filtering.
+- Added basic iptables rules for SSH, HTTP, and HTTPS.
+- Learned how to view and persist iptables rules.
