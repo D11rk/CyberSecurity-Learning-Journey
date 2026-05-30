@@ -32,3 +32,12 @@
 - Learned how iptables works at a deeper level for packet filtering.
 - Added basic iptables rules for SSH, HTTP, and HTTPS.
 - Learned how to view and persist iptables rules.
+
+## Week 3 — Day 5
+
+### What I learned today
+- Installed and configured Wireshark on my Linux VM.
+- Learned how to capture and analyze packets.
+- Practised using filters to isolate DNS, ICMP, HTTP, and ARP traffic.
+- Learned how to follow TCP streams to view full conversations.
+- Understood how packet analysis helps with debugging and recon.
