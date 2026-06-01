@@ -41,3 +41,12 @@
 - Practised using filters to isolate DNS, ICMP, HTTP, and ARP traffic.
 - Learned how to follow TCP streams to view full conversations.
 - Understood how packet analysis helps with debugging and recon.
+
+## Week 3 — Day 6
+
+### What I learned today
+- Practised real-world networking tasks using Linux commands.
+- Checked interfaces, IP addresses, and routing information.
+- Tested connectivity using ping and traceroute.
+- Inspected open ports and listening services using ss.
+- Troubleshot DNS issues using dig and resolv.conf.
