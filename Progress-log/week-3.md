@@ -50,3 +50,12 @@
 - Tested connectivity using ping and traceroute.
 - Inspected open ports and listening services using ss.
 - Troubleshot DNS issues using dig and resolv.conf.
+
+## Week 3 — Day 7
+
+### What I learned today
+- Completed a full networking mini‑project combining Nmap, Wireshark, and Linux commands.
+- Scanned the local network and saved results.
+- Captured packets during the scan and analysed them using filters.
+- Compared Nmap results with packet behaviour (SYN, SYN‑ACK, RST).
+- Documented findings like a real pentester.
