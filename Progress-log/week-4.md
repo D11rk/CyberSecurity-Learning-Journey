@@ -5,3 +5,12 @@
 - Understood the difference between vertical and horizontal escalation.
 - Practised the core enumeration commands used in every Linux privesc.
 - Learned the main vectors attackers use to escalate privileges.
+
+## Week 4 — Day 2
+
+### What I learned today
+- Learned how to enumerate a Linux system for privilege escalation.
+- Gathered system, user, process, and service information.
+- Checked cron jobs, SUID binaries, writable files, and sudo permissions.
+- Built a complete enumeration workflow used in real pentesting.
+
