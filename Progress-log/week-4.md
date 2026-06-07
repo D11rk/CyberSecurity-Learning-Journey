@@ -14,3 +14,11 @@
 - Checked cron jobs, SUID binaries, writable files, and sudo permissions.
 - Built a complete enumeration workflow used in real pentesting.
 
+## Week 4 — Day 3
+
+### What I learned today
+- Learned how sudo works and why misconfigurations are dangerous.
+- Identified common risky sudo patterns.
+- Practised checking sudo permissions safely.
+- Built the mindset needed to recognise insecure sudo rules.
+
