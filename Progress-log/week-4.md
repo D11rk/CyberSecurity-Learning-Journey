@@ -22,3 +22,11 @@
 - Practised checking sudo permissions safely.
 - Built the mindset needed to recognise insecure sudo rules.
 
+## Week 4 — Day 4
+
+### What I learned today
+- Learned what SUID and SGID binaries are and how they work.
+- Understood why SUID/SGID misconfigurations are dangerous.
+- Practised safely enumerating SUID and SGID binaries.
+- Learned how to identify unusual or suspicious binaries.
+
