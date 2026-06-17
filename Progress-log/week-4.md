@@ -37,3 +37,12 @@
 - Understood why cron misconfigurations can be dangerous.
 - Practised safely enumerating cron jobs and cron directories.
 - Learned how to recognise risky cron patterns such as writable scripts, wildcards, and unsafe paths.
+
+## Week 4 — Day 6
+
+### What I learned today
+- Learned about Linux capabilities and how they grant specific elevated privileges.
+- Understood NFS misconfigurations like `no_root_squash`.
+- Learned how weak SSH key hygiene can expose systems.
+- Identified risks in PATH and environment variable misconfigurations.
+- Practised safely enumerating these vectors.
