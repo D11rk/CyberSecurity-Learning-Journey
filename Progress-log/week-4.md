@@ -46,3 +46,11 @@
 - Learned how weak SSH key hygiene can expose systems.
 - Identified risks in PATH and environment variable misconfigurations.
 - Practised safely enumerating these vectors.
+
+## Week 4 — Day 7
+
+### What I learned today
+- Completed a full privilege‑escalation enumeration workflow.
+- Combined all techniques from Days 1–6 into one structured process.
+- Learned how to document findings like a real pentester.
+- Identified potential escalation paths safely without exploiting anything.
