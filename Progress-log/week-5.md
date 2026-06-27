@@ -14,3 +14,11 @@
 - Why attackers use persistence.
 - Different types of persistence.
 - How defenders detect persistence.
+
+# Day 3: Internal Recon
+
+## What I Learned
+- Internal recon = checking the system after gaining access.
+- It helps attackers find weaknesses for privilege escalation.
+- I learned how to check users, files, processes, and network connections.
+- Recon gives a clear picture of what I can do next on the machine.
