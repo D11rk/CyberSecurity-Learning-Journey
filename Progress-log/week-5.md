@@ -22,3 +22,11 @@
 - It helps attackers find weaknesses for privilege escalation.
 - I learned how to check users, files, processes, and network connections.
 - Recon gives a clear picture of what I can do next on the machine.
+
+# Day 4: Privilege Escalation Basics
+
+## What I Learned
+- Two types of privilege escalation: vertical and horizontal.
+- Attackers look for weak permissions, sudo issues, SUID binaries, outdated software, and stored passwords.
+- Privilege escalation is needed to access protected files and perform powerful actions.
+- Recon commands help find weaknesses.
