@@ -30,3 +30,13 @@
 - Attackers look for weak permissions, sudo issues, SUID binaries, outdated software, and stored passwords.
 - Privilege escalation is needed to access protected files and perform powerful actions.
 - Recon commands help find weaknesses.
+
+# Day 5: Post-Exploitation Actions
+
+## What I learned
+- Attackers gather sensitive data once inside.
+- They steal credentials to access more systems.
+- Pivoting allows movement deeper into the network.
+- Persistence keeps long-term access.
+- Covering tracks hides their activity.
+- Exfiltration is stealing data out of the network.
