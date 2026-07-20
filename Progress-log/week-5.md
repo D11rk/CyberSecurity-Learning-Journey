@@ -41,7 +41,7 @@
 - Covering tracks hides their activity.
 - Exfiltration is stealing data out of the network.
 
-# Day 5: Full Post-Exploitation Actions
+# Day 6: Full Post-Exploitation Actions
 
 ## What I Learned
 - Post-exploitation is not one action — it’s a sequence.
