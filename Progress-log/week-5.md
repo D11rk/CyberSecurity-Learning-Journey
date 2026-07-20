@@ -48,3 +48,13 @@
 - Attackers confirm access, explore the system, escalate privileges, create persistence, gather data, and hide their tracks.
 - Each step builds on the previous one.
 - This workflow prepares me for real attack chains 
+
+# Day 7: Practice
+
+## What I Learned
+- How attackers explore a system after gaining access.
+- How privilege escalation works and why it matters.
+- How persistence keeps long-term access.
+- How attackers gather sensitive data.
+- How covering tracks hides activity.
+- How all steps connect into one workflow.
