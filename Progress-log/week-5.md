@@ -40,3 +40,11 @@
 - Persistence keeps long-term access.
 - Covering tracks hides their activity.
 - Exfiltration is stealing data out of the network.
+
+# Day 5: Full Post-Exploitation Actions
+
+## What I Learned
+- Post-exploitation is not one action — it’s a sequence.
+- Attackers confirm access, explore the system, escalate privileges, create persistence, gather data, and hide their tracks.
+- Each step builds on the previous one.
+- This workflow prepares me for real attack chains 
